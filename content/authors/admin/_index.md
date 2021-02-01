@@ -1,11 +1,12 @@
 ---
-role: M.Sc student in Astrophysics
+role: MSc student in Astrophysics
 bio: My research interests include theoretical and observational cosmology, dark
   energy & large-scale structures, gravitational wave astronomy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theoretical and Observational Cosmology
+  - Dark Energy and Large-Scale Structures
+  - Galaxy Formation and Evolution
+  - Gravitational Wave Astronomy
 social:
   - icon: envelope
     icon_pack: fas
