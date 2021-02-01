@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-headless: true
+widget_id: Research-projects
 weight: 65
 title: Research projects
 subtitle: ""
@@ -14,9 +14,10 @@ content:
       tag: Deep Learning
     - name: Other
       tag: Demo
-widget_id: Research-projects
+headless: true
 design:
   columns: "2"
   view: 2
   flip_alt_rows: false
 ---
+allo
