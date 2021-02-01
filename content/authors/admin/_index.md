@@ -1,49 +1,34 @@
 ---
 role: M.Sc student in Astrophysics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include theoretical and observational cosmology, dark
+  energy & large-scale structures, gravitational wave astronomy.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: ai
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: ai
+    link: https://github.com/axelapel
 organizations:
-  - name: Master of Astrophysics Université Côte d'Azur
-    url: http://mauca.unice.fr/
+  - name: Observatoire de la Côte d'Azur
+    url: https://www.oca.eu/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Astrophysics
+      institution: Université Côte d'Azur
+      year: 2021
+    - course: BSc in Physics
+      institution: Université de Caen Normandie
+      year: 2019
 superuser: true
 highlight_name: false
 title: Axel Lapel
-email: ""
+email: axel.lapel@oca.eu
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
