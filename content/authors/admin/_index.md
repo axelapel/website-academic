@@ -8,10 +8,10 @@ interests:
   - Information Retrieval
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: fas
     link: /#contact
   - icon: github
-    icon_pack: ai
+    icon_pack: fab
     link: https://github.com/axelapel
 organizations:
   - name: Observatoire de la Côte d'Azur
