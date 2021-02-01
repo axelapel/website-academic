@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: Research-projects
+widget_id: projects
 weight: 65
 title: Research projects
 subtitle: ""
