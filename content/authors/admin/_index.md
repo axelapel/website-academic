@@ -14,6 +14,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/axelapel
+  - display:
+      header: false
+    link: /media/CV_Axel_LAPEL_M2_MAUCA
+    icon_pack: ai
+    icon: CV
 organizations:
   - name: Observatoire de la Côte d'Azur
     url: https://www.oca.eu/en/
