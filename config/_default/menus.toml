@@ -8,6 +8,13 @@
   url = "#about"
   weight = 10
 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+[[main]]
+   name = "CV"
+   url = "media/resume.pdf"
+   weight = 70
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -32,10 +39,3 @@
 #  name = "Contact"
 #  url = "#contact"
 #  weight = 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "media/resume.pdf"
-    weight = 70
