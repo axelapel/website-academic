@@ -3,8 +3,8 @@ role: MSc student in Astrophysics
 bio: My research interests include theoretical and observational cosmology, dark
   energy & large-scale structures, gravitational wave astronomy.
 interests:
-  - Theoretical and Observational Cosmology
-  - Dark Energy and Large-Scale Structures
+  - Theoretical & Observational Cosmology
+  - Dark Energy & Dark Matter
   - Galaxy Formation and Evolution
   - Gravitational Wave Astronomy
 social:
@@ -32,4 +32,4 @@ email: axel.lapel@oca.eu
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Axel_LAPEL_M2_MAUCA" "newtab" >}}resumé{{< /staticref >}}.
