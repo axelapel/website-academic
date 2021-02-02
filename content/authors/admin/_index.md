@@ -3,7 +3,7 @@ role: MSc student in Astrophysics
 bio: My research interests include theoretical and observational cosmology, dark
   energy & large-scale structures, gravitational wave astronomy.
 interests:
-  - Theoretical/Observational Cosmology
+  - Cosmology
   - Dark Energy & Dark Matter
   - Galaxy Formation and Evolution
   - Gravitational Wave Astronomy
